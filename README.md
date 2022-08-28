@@ -1,1 +1,2 @@
-# sp22-cs411-team044-DontDoMasters
+# FoodWizard
+Full stack recipe discovery application
